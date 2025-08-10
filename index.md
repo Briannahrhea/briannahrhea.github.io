@@ -21,7 +21,7 @@ A code review is...
 The first artifact is an Android Studio Project developed usng the Java programming language. This application is used to track users' weight, set a goal weight, and receive notifications once their goal has been reached.  
 
 - **Repository:** <https://github.com/Briannahrhea/CS360>  
-- `See the artifact's report and code here:`
+- `See the artifact's report and code here:`  
   [Report](https://github.com/Briannahrhea/CS360/tree/README)  
   [Original](https://github.com/Briannahrhea/CS360/tree/CS360_Original)  
   [Enhanced](https://github.com/Briannahrhea/CS360/tree/CS360_Enhanced)
@@ -78,6 +78,7 @@ My time in the Computer Science program at Southern New Hampshire University has
 - Met via **IT145 (Databases)**: validation, parameterized queries, and safe data handling.
 
 ---
+
 
 
 
