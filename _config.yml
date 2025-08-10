@@ -1,14 +1,7 @@
-title: Briannah Barnett — CS 499 ePortfolio
-theme: minima
+title: Briannah Barnett 
+description: SNHU CS-499 Computer Science Capstone, ePortfolio
+theme: jekyll-theme-merlot
 
-header_pages:
-  - index.md
-  - artifacts/index.md
-  - review/index.md
-  - narratives/index.md
-  - outcomes.md
-
-minima:
-  social_links:
-    - { platform: github,  user_url: "https://github.com/Briannahrhea" }
-    - { platform: linkedin, user_url: "https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE/" }
+# Optional social links shown by many themes
+author: Briannah Barnett
+github_username: Briannahrhea
