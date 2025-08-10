@@ -12,9 +12,9 @@ A code review is...
 
 This artifact focuses on software design and engineering. Summarize the app and audience here (platform, stack, and what the user can do).
 
-- **Repository:** <https://github.com/Briannahrhea/REPO-NAME-CS360>  
+- **Repository:** <https://github.com/Briannahrhea/CS360New>  
 - `See the artifact's report and code here.`  
-  [Report and Code](https://github.com/Briannahrhea/REPO-NAME-CS360)
+  [Report and Code](https://github.com/Briannahrhea/CS360New)
 
 ---
 
@@ -23,9 +23,9 @@ This artifact focuses on software design and engineering. Summarize the app and 
 
 This artifact highlights algorithms & data structures within a client/server context. Summarize the goal, data structures used, and algorithmic improvements.
 
-- **Repository:** <https://github.com/Briannahrhea/REPO-NAME-CS340>  
+- **Repository:** <https://github.com/Briannahrhea/CS340>  
 - `See the artifact's report and code here.`  
-  [Report and Code](https://github.com/Briannahrhea/REPO-NAME-CS340)
+  [Report and Code](https://github.com/Briannahrhea/CS340)
 
 ---
 
@@ -34,9 +34,9 @@ This artifact highlights algorithms & data structures within a client/server con
 
 This artifact demonstrates database concepts. Summarize schema/queries, transactions/indexing, ORMs used, and how data is validated.
 
-- **Repository:** <https://github.com/Briannahrhea/REPO-NAME-IT145>  
+- **Repository:** <https://github.com/Briannahrhea/IT145>  
 - `See the artifact's report and code here.`  
-  [Report and Code](https://github.com/Briannahrhea/REPO-NAME-IT145)
+  [Report and Code](https://github.com/Briannahrhea/IT145)
 
 ---
 
@@ -68,6 +68,7 @@ My time in the Computer Science program at Southern New Hampshire University has
 - Met via **IT145 (Databases)**: validation, parameterized queries, and safe data handling.
 
 ---
+
 
 
 
