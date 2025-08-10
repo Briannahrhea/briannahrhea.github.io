@@ -1,11 +1,3 @@
-# Briannah Barnett
-
-## SNHU CS-499 Computer Science Capstone, ePortfolio
-
-# Computer Science Capstone
-
-## CS-499 | SNHU
-
 #### CODE REVIEW
 
 A code review is...
@@ -79,3 +71,4 @@ My time in the Computer Science program at Southern New Hampshire University has
 
 *Projects by* **Briannah Barnett** *can be found on* [GitHub](https://github.com/Briannahrhea).  
 Generated with [GitHub Pages](https://pages.github.com/) using Merlot.
+
