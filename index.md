@@ -33,8 +33,8 @@ This artifact highlights algorithms & data structures within a client/server con
 
 - **Repository:** <https://github.com/Briannahrhea/CS340>  
 - `See the artifact's report and code here.`  
-  [Report and Code](https://github.com/Briannahrhea/CS340)
-
+  [Original](https://github.com/Briannahrhea/CS340/tree/CS340_Original)  
+  [Enhanced](https://github.com/Briannahrhea/CS340/tree/CS340_Enhanced)
 ---
 
 #### Project 3: Databases  
@@ -76,6 +76,7 @@ My time in the Computer Science program at Southern New Hampshire University has
 - Met via **IT145 (Databases)**: validation, parameterized queries, and safe data handling.
 
 ---
+
 
 
 
