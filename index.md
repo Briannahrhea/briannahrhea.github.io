@@ -44,7 +44,8 @@ This artifact demonstrates database concepts. Summarize schema/queries, transact
 
 - **Repository:** <https://github.com/Briannahrhea/IT145>  
 - `See the artifact's report and code here.`  
-  [Report and Code](https://github.com/Briannahrhea/IT145)
+  [Original](https://github.com/Briannahrhea/IT145/tree/IT145_Original)  
+  [Enhanced](https://github.com/Briannahrhea/IT145/tree/IT145_Enhanced)
 
 ---
 
@@ -76,6 +77,7 @@ My time in the Computer Science program at Southern New Hampshire University has
 - Met via **IT145 (Databases)**: validation, parameterized queries, and safe data handling.
 
 ---
+
 
 
 
