@@ -1,3 +1,11 @@
+---
+title: Home
+---
+
+# Briannah Barnett
+
+## SNHU CS-499 Computer Science Capstone, ePortfolio
+
 #### CODE REVIEW
 
 A code review is...
@@ -68,6 +76,7 @@ My time in the Computer Science program at Southern New Hampshire University has
 - Met via **IT145 (Databases)**: validation, parameterized queries, and safe data handling.
 
 ---
+
 
 
 
