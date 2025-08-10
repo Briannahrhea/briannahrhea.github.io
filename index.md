@@ -22,7 +22,7 @@ This artifact focuses on software design and engineering. Summarize the app and 
 
 - **Repository:** <https://github.com/Briannahrhea/CS360>  
 - `See the artifact's report and code here.`  
-  [Original](https://github.com/Briannahrhea/CS360/tree/CS360_Original)
+  [Original](https://github.com/Briannahrhea/CS360/tree/CS360_Original)  
   [Enhanced](https://github.com/Briannahrhea/CS360/tree/CS360_Enhanced)
 ---
 
@@ -76,6 +76,7 @@ My time in the Computer Science program at Southern New Hampshire University has
 - Met via **IT145 (Databases)**: validation, parameterized queries, and safe data handling.
 
 ---
+
 
 
 
