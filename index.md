@@ -2,9 +2,9 @@
 title: Home
 ---
 
-# Briannah Barnett
+# Computer Science Capstone Project
 
-## SNHU CS-499 Computer Science Capstone, ePortfolio
+## SNHU || CS-499 
 
 #### CODE REVIEW
 
@@ -77,6 +77,7 @@ My time in the Computer Science program at Southern New Hampshire University has
 - Met via **IT145 (Databases)**: validation, parameterized queries, and safe data handling.
 
 ---
+
 
 
 
