@@ -33,7 +33,8 @@ The first artifact is an Android Studio Project developed usng the Java programm
 The second artifact is a Python-based dashboard application designed to support an animal shelter's operations by connecting to a MongoDB database and displaying the data interactively using Dash, Plotly, and pandas. It included several visualization tools, such as a searchable data table, basic filtering options, and an interactive map. 
 
 - **Repository:** <https://github.com/Briannahrhea/CS340>  
-- `See the artifact's report and code here:`  
+- `See the artifact's report and code here:`
+  [Report](https://github.com/Briannahrhea/CS340/tree/README)  
   [Original](https://github.com/Briannahrhea/CS340/tree/CS340_Original)  
   [Enhanced](https://github.com/Briannahrhea/CS340/tree/CS340_Enhanced)
   
@@ -79,6 +80,7 @@ My time in the Computer Science program at Southern New Hampshire University has
 - Met via **IT145 (Databases)**: validation, parameterized queries, and safe data handling.
 
 ---
+
 
 
 
