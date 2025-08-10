@@ -8,9 +8,9 @@ title: Home
 
 #### CODE REVIEW
 
-A code review is...
+A code review is used to examine a piece of code with the goal of identifying mistakes,  improving the code quality, and ensuring that appropriate coding standards and best practices are  followed. The practice is important for computer science professionals because it assist in  creating a quality product by reviewing the code for bugs or potential issus prior to going to  production. It also encourages collaboration and knowledge sharing by allowing the developers  to learn from one another and provide each other with solutions or innovative ideas. This review  also ensures consistency in structure and usage across projects where different developers are  writing code. Overall, this promotes a collaborative and well-structured work environment that also aids in reducing any technical debt by catching errors in products early on.  
 
-`You can watch the code review here:`  
+`You can watch my code review here:`  
 [Watch Code Review](https://youtu.be/RboiFGqfeok)
 
 ---
@@ -80,6 +80,7 @@ My time in the Computer Science program at Southern New Hampshire University has
 - Met via **IT145 (Databases)**: validation, parameterized queries, and safe data handling.
 
 ---
+
 
 
 
