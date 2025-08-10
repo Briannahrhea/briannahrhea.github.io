@@ -69,6 +69,5 @@ My time in the Computer Science program at Southern New Hampshire University has
 
 ---
 
-*Projects by* **Briannah Barnett** *can be found on* [GitHub](https://github.com/Briannahrhea).  
-Generated with [GitHub Pages](https://pages.github.com/) using Merlot.
+
 
