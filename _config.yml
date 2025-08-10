@@ -1,3 +1,14 @@
-theme: jekyll-theme-minimal
-title: Briannah's homepage
-description: Bookmark this to keep an eye on my project updates!
+title: Briannah Barnett — CS 499 ePortfolio
+theme: minima
+
+header_pages:
+  - index.md
+  - artifacts/index.md
+  - review/index.md
+  - narratives/index.md
+  - outcomes.md
+
+minima:
+  social_links:
+    - { platform: github,  user_url: "https://github.com/Briannahrhea" }
+    - { platform: linkedin, user_url: "https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE/" }
