@@ -20,10 +20,10 @@ A code review is...
 
 This artifact focuses on software design and engineering. Summarize the app and audience here (platform, stack, and what the user can do).
 
-- **Repository:** <https://github.com/Briannahrhea/CS360New>  
+- **Repository:** <https://github.com/Briannahrhea/CS360>  
 - `See the artifact's report and code here.`  
-  [Report and Code](https://github.com/Briannahrhea/CS360New)
-
+  [Original](https://github.com/Briannahrhea/CS360/tree/CS360_Original)
+  [Enhanced](https://github.com/Briannahrhea/CS360/tree/CS360_Enhanced)
 ---
 
 #### Project 2: Algorithms and Data Structures  
@@ -76,6 +76,7 @@ My time in the Computer Science program at Southern New Hampshire University has
 - Met via **IT145 (Databases)**: validation, parameterized queries, and safe data handling.
 
 ---
+
 
 
 
