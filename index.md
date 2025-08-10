@@ -25,7 +25,6 @@ This artifact focuses on software design and engineering. Summarize the app and 
   [Original](https://github.com/Briannahrhea/CS360/tree/CS360_Original)  
   [Enhanced](https://github.com/Briannahrhea/CS360/tree/CS360_Enhanced)
   
----
 
 #### Project 2: Algorithms and Data Structures  
 **CS340 — Client/Server Development**
@@ -37,7 +36,6 @@ This artifact highlights algorithms & data structures within a client/server con
   [Original](https://github.com/Briannahrhea/CS340/tree/CS340_Original)  
   [Enhanced](https://github.com/Briannahrhea/CS340/tree/CS340_Enhanced)
   
----
 
 #### Project 3: Databases  
 **IT145 — Foundation in Application Development**
@@ -79,6 +77,7 @@ My time in the Computer Science program at Southern New Hampshire University has
 - Met via **IT145 (Databases)**: validation, parameterized queries, and safe data handling.
 
 ---
+
 
 
 
