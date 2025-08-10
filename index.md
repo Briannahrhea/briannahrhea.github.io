@@ -21,9 +21,10 @@ A code review is...
 This artifact focuses on software design and engineering. Summarize the app and audience here (platform, stack, and what the user can do).
 
 - **Repository:** <https://github.com/Briannahrhea/CS360>  
-- `See the artifact's report and code here.`  
+- `See the artifact's report and code here:`  
   [Original](https://github.com/Briannahrhea/CS360/tree/CS360_Original)  
-  [Enhanced](https://github.com/Briannahrhea/CS360/tree/CS360_Enhanced)  
+  [Enhanced](https://github.com/Briannahrhea/CS360/tree/CS360_Enhanced)
+  
 ---
 
 #### Project 2: Algorithms and Data Structures  
@@ -32,9 +33,10 @@ This artifact focuses on software design and engineering. Summarize the app and 
 This artifact highlights algorithms & data structures within a client/server context. Summarize the goal, data structures used, and algorithmic improvements.
 
 - **Repository:** <https://github.com/Briannahrhea/CS340>  
-- `See the artifact's report and code here.`  
+- `See the artifact's report and code here:`  
   [Original](https://github.com/Briannahrhea/CS340/tree/CS340_Original)  
-  [Enhanced](https://github.com/Briannahrhea/CS340/tree/CS340_Enhanced)  
+  [Enhanced](https://github.com/Briannahrhea/CS340/tree/CS340_Enhanced)
+  
 ---
 
 #### Project 3: Databases  
@@ -43,7 +45,7 @@ This artifact highlights algorithms & data structures within a client/server con
 This artifact demonstrates database concepts. Summarize schema/queries, transactions/indexing, ORMs used, and how data is validated.
 
 - **Repository:** <https://github.com/Briannahrhea/IT145>  
-- `See the artifact's report and code here.`  
+- `See the artifact's report and code here:`  
   [Original](https://github.com/Briannahrhea/IT145/tree/IT145_Original)  
   [Enhanced](https://github.com/Briannahrhea/IT145/tree/IT145_Enhanced)  
 
@@ -77,6 +79,7 @@ My time in the Computer Science program at Southern New Hampshire University has
 - Met via **IT145 (Databases)**: validation, parameterized queries, and safe data handling.
 
 ---
+
 
 
 
