@@ -62,26 +62,6 @@ The third artifact is a Java console application developed to manage a list of r
 
 ---
 
-## Course Outcomes Mapping
-
-`Course Outcome 1` — Building collaborative environments for decision-making  
-- Met via **code review** before enhancements and artifact planning.
-
-`Course Outcome 2` — Professional-quality oral, written, and visual communications  
-- Met via **CS360 (Software Design & Engineering)**: clear UI/UX and documentation.
-
-`Course Outcome 3` — Design and evaluate computing solutions using algorithmic principles  
-- Met via **CS340 (Algorithms & Data Structures)**: improved efficiency and data handling.
-
-`Course Outcome 4` — Use innovative techniques, skills, and tools to deliver value  
-- Met via **CS360** and **CS340**: full-stack changes, client/server improvements, CI/testing.
-
-`Course Outcome 5` — Develop a security mindset that anticipates adversarial exploits  
-- Met via **IT145 (Databases)**: validation, parameterized queries, and safe data handling.
-
----
-
-
 
 
 
