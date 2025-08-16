@@ -1,6 +1,9 @@
 ---
 title: Home
 ---
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/f9847130-2e45-4c33-bc54-fa804dfc938c" alt="Briannah Barnett Headshot" width="200"/>
+</p>
 
 # Computer Science Capstone Project
 
@@ -95,6 +98,7 @@ The third artifact is a Java console application developed to manage a list of r
   [Enhanced Code](https://github.com/Briannahrhea/IT145/tree/IT145_Enhanced)  
 
 ---
+
 
 
 
