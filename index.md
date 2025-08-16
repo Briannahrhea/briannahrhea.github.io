@@ -6,6 +6,16 @@ title: Home
 
 # SNHU CS-499 
 
+## Professional Self-Assessment
+
+My time in the Computer Science program at Southern New Hampshire University has assisted in shaping my professional goals and values. It has prepared me to become an asset to prospective employers. This ePortfolio shows my ability to plan and develop industry-standard code and software programs across **Software Design & Engineering**, **Algorithms & Data Structures**, and **Databases**.
+
+- Team collaboration and communication with stakeholders  
+- Secure coding practices and threat awareness  
+- Design trade-offs (performance vs. clarity) and testing strategies
+
+---
+
 #### CODE REVIEW
 
 A code review is used to examine a piece of code with the goal of identifying mistakes,  improving the code quality, and ensuring that appropriate coding standards and best practices are  followed. The practice is important for computer science professionals because it assist in  creating a quality product by reviewing the code for bugs or potential issus prior to going to  production. It also encourages collaboration and knowledge sharing by allowing the developers  to learn from one another and provide each other with solutions or innovative ideas. This review  also ensures consistency in structure and usage across projects where different developers are  writing code. Overall, this promotes a collaborative and well-structured work environment that also aids in reducing any technical debt by catching errors in products early on.  
@@ -52,16 +62,6 @@ The third artifact is a Java console application developed to manage a list of r
 
 ---
 
-## Professional Self-Assessment
-
-My time in the Computer Science program at Southern New Hampshire University has assisted in shaping my professional goals and values. It has prepared me to become an asset to prospective employers. This ePortfolio shows my ability to plan and develop industry-standard code and software programs across **Software Design & Engineering**, **Algorithms & Data Structures**, and **Databases**.
-
-- Team collaboration and communication with stakeholders  
-- Secure coding practices and threat awareness  
-- Design trade-offs (performance vs. clarity) and testing strategies
-
----
-
 ## Course Outcomes Mapping
 
 `Course Outcome 1` — Building collaborative environments for decision-making  
@@ -80,6 +80,7 @@ My time in the Computer Science program at Southern New Hampshire University has
 - Met via **IT145 (Databases)**: validation, parameterized queries, and safe data handling.
 
 ---
+
 
 
 
