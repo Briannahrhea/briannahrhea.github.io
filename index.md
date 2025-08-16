@@ -70,11 +70,12 @@ The first artifact is an Android Studio Project developed usng the Java programm
 - **Repository:** <https://github.com/Briannahrhea/CS360>  
 - `See the artifact's narrative report and code here:`  
   [Narrative Report](https://github.com/Briannahrhea/CS360/tree/README)
-     
+
   **Original Project Layout**  
-  <img src="https://github.com/user-attachments/assets/44d3d9cb-9ebd-490f-afda-c703a164f88b" alt="image 1" width="240"/>
-  <img src="https://github.com/user-attachments/assets/8c5ccffb-6491-4749-a3cf-3f3dc91d5049" alt="image 2" width="240" style="margin-left:12px;"/>  
+  <img src="https://github.com/user-attachments/assets/44d3d9cb-9ebd-490f-afda-c703a164f88b" alt="image 1" width="240"/> &nbsp;
+  <img src="https://github.com/user-attachments/assets/8c5ccffb-6491-4749-a3cf-3f3dc91d5049" alt="image 2" width="240"/>
   [Original Code](https://github.com/Briannahrhea/CS360/tree/CS360_Original)
+
     
   **Enhanced Project Layout**  
   <img src="https://github.com/user-attachments/assets/76df04b4-6508-4c18-9cd6-fc7651983a80" alt="image 1" width="220"/>
@@ -112,6 +113,7 @@ The third artifact is a Java console application developed to manage a list of r
   [Enhanced Code](https://github.com/Briannahrhea/IT145/tree/IT145_Enhanced)  
 
 ---
+
 
 
 
