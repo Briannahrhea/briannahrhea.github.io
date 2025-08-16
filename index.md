@@ -93,11 +93,11 @@ The second artifact is a Python-based dashboard application designed to support 
   [Narrative Report](https://github.com/Briannahrhea/CS340/tree/README)
 
   **Original Project Layout**   
-  <img width="1912" height="1038" alt="image" src="https://github.com/user-attachments/assets/e1ea2295-a794-4814-b2b8-2f17c7f2703a" />
+  <img width="1912" height="1038" alt="image" src="https://github.com/user-attachments/assets/e1ea2295-a794-4814-b2b8-2f17c7f2703a" />  
   [Original Code](https://github.com/Briannahrhea/CS340/tree/CS340_Original)  
 
   **Enhanced Project Layout**   
-  <img width="1902" height="1037" alt="image" src="https://github.com/user-attachments/assets/8aa8c8c1-b661-4b3d-828f-3006098086fb"/> 
+  <img width="1902" height="1037" alt="image" src="https://github.com/user-attachments/assets/8aa8c8c1-b661-4b3d-828f-3006098086fb"/>  
   [Enhanced Code](https://github.com/Briannahrhea/CS340/tree/CS340_Enhanced)
   
 
@@ -109,10 +109,18 @@ The third artifact is a Java console application developed to manage a list of r
 - **Repository:** <https://github.com/Briannahrhea/IT145>  
 - `See the artifact's narrative report and code here:`  
   [Narrative Report](https://github.com/Briannahrhea/IT145/tree/README)  
-  [Original Code](https://github.com/Briannahrhea/IT145/tree/IT145_Original)  
+
+  **Original Project Layout**  
+
+  | ![image](https://github.com/user-attachments/assets/41f04453-04d7-4eec-8051-ef3c2bbc4e1c) | ![image](https://github.com/user-attachments/assets/d9c7cccd-a648-4536-86f2-b18dcc9835ec) |
+  |:---:|:---:|
+
+  [Original Code](https://github.com/Briannahrhea/IT145/tree/IT145_Original)
+ 
   [Enhanced Code](https://github.com/Briannahrhea/IT145/tree/IT145_Enhanced)  
 
 ---
+
 
 
 
