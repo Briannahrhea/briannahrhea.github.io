@@ -18,11 +18,32 @@ As you explore this ePortfolio, I invite you to see how my academic journey has 
 
 ## Professional Self-Assessment
 
-My time in the Computer Science program at Southern New Hampshire University has assisted in shaping my professional goals and values. It has prepared me to become an asset to prospective employers. This ePortfolio shows my ability to plan and develop industry-standard code and software programs across **Software Design & Engineering**, **Algorithms & Data Structures**, and **Databases**.
+<details>
+  <summary>📂 Click here to expand my Professional Self-Assessment</summary>  
+  
+Throughout my journey through the SNHU Computer Science program and in the completion of the artifacts for my ePortfolio, I have developed the technical skills, professional values, and problem-solving mindset I need to be successful in a professional field of study. Throughout the experiences that shaped my professional goals and employability, I was able to identify strengths in communication, algorithms, software engineering, databases, and security. The development and reflection of my work in this ePortfolio have also provided opportunities to connect and evaluate my academic learning experiences and skillsets with industry expectations, to illustrate my readiness to transition into the computer science workforce.
 
-- Team collaboration and communication with stakeholders  
-- Secure coding practices and threat awareness  
-- Design trade-offs (performance vs. clarity) and testing strategies
+I have experienced substantial development in problem-solving and developing technical solutions with the utilization of data structures, algorithms, and innovative thinking as I developed my artifacts. For example, in my CS210 Chada Tech Clocks project, I established timekeeping logic in C++, which included algorithmic thinking that managed edge cases when incrementing hours, minutes, and seconds. Over the duration of the program, I became more comfortable applying logical steps to solve problems, weighing the trade-offs of efficiency and usability, and designing computing solutions to obtain the appropriate results. This skillset has become the foundation for my artifact enhancements, where I applied logic from algorithms, as well as a framework built on modern architecture, that illuminates my skillsets to ultimately develop scalable and real-life computing applications.
+
+I also matured substantially in developing a security mindset. In my CS360 Secure Coding final project, I implemented concepts including password hashing, input validation, and user authentication, where sensitive information was kept out of reach from common attacks such as SQL injection. But learning all that technical knowledge also gave me valuable lessons related to an ethical duty to protect user data and promote the justness and accountability of computing solutions. Security is now the lens through which I see all of my experiences, and it is definitely a strength of my professional identity.
+
+Another big area of professional development that I felt was in the area of software engineering and databases. In CS465 Full-Stack Development, I helped myself graduate from writing simple console applications to dynamic applications with RESTful APIs and relational databases. I was able to apply modular principles in the design of those applications while also ensuring that they would scale and be manageable. I felt that those experiences provided me the gestalt to develop professional-class full-stack solutions with industry best practices. I feel proud of this growth because my application development skills have expanded greatly in scope.
+
+Collaboration wasn't my largest area of growth, but I still gleaned some valuable experiences with team practices. In CS250, my Sprint Review & Retrospective project helped me understand an agile workflow to be a part of a team, and how we assess our progress as a group. Through GitHub version control, Agile methodologies, and clear documentation, including pseudocode, flowcharts, READMEs, and narrative reviews, I learnt how to structure my work in such a way that it would best fit into collaborative environments. These practices reflect industry workflows and prepare me to contribute to future team-based deployments.
+
+Lastly, I developed my ability to communicate with stakeholders. I presented project outputs during courses such as CS305 Software Security and CS370 Machine Learning through a written report, as visualizations to analyze components, and orally for discussion. In doing so, I developed ways to communicate technical information, such as design trade-offs, database structures, and algorithmic logic, to a variety of audiences, including non-technical decision-makers.
+
+The five program outcomes laid out a roadmap for me. First, I learnt to apply measures to develop collaborative work environments, using Agile workflows and version control to facilitate teamwork. Second, I improved my ability to design and disseminate professional-quality communications, since I produced reports, documentation, presentations, and visualizations for intended audiences. Third, I practiced designing and evaluating computing solutions based on algorithmic concepts and principles, while sometimes negotiating the trade-offs inherent with performance, usability, and scalability. Fourth, I demonstrated the ability to apply innovative techniques, skills, and tools to produce professional-level, industry-comparable solutions for users, in examples like Android Studio, Python Dash, RESTful APIs, and more. Finally, I reliably developed a security mindset, i.e., to design solutions with possible vulnerabilities in mind, while protecting user data. 
+
+The three improved artifacts demonstrate specific examples of how I achieved the stated one of the five outcomes. My Weight-Tracking Mobile Application (Software Engineering & Design), an Android Studio project, exemplified my abilities in mobile development, UI design, and secure authentication. By completely redesigning the interface, adding line graph visualization, and implementing password hashing, I engaged innovative tools, effectively communicated data visualization methods, and enhanced the security of the overall application. 
+
+The Animal Shelter Dashboard (Algorithms & Data Structures) artifact is an application that is built with Python to show my ability to apply algorithmic thinking to real-world data. By implementing relevant filtering practices, implementing a match feature, and a heatmap and trend analysis tool, I created solution options for staff at the shelter to promote collaboration and effective decision-making. This artifact specifically showed my ability to incorporate algorithmic problem solving, effective communication in a professional environment, and collaborative tools. 
+
+The Rescue Animal Management System (Databases & Full-Stack Development) project detailed my steps from developing a simple Java console application to building a full-stack web application using Node.js, Express, and MySQL. By developing RESTful API's, scalable database, and unobtrusive web interface, I was able to implement industry standard best practices and innovative approaches to programming. I was able to assure my security-first orientation by implementing input validation and SQL injection prevention methods.
+
+Together, my coursework, ePortfolio, and artifact improvement demonstrate my mastery of the five program outcomes and showcase my professional strengths. I have learnt how to communicate with diverse technical audiences, apply algorithmic thinking in the design of solutions, implement innovative tools, and build secure applications, while developing a useful experience in collaborative proceedings that will serve me well in collaborative environments. My learning has informed my career goals to ensure I will add value in software development, data science, or defense systems that are security-conscious, problem-solving, and user-centered. More importantly, my learning shows I will honour my professional values of adaptability, responsibility, and ethical commitment to developing software solutions, which I hope to continue to exhibit in my career in computer science.
+
+</details>
 
 ---
 
@@ -71,6 +92,7 @@ The third artifact is a Java console application developed to manage a list of r
   [Enhanced Code](https://github.com/Briannahrhea/IT145/tree/IT145_Enhanced)  
 
 ---
+
 
 
 
