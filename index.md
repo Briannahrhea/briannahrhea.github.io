@@ -6,6 +6,16 @@ title: Home
 
 # SNHU CS-499 
 
+## Introduction
+
+Hello, my name is Briannah Barnett and this is my ePortfolio that represents the culmination of my studies in the Computer Science program at Southern New Hampshire University (2022-2025). Throughout this program, I have grown academically, developing the technical skills, values, and mindset that is necessary to succeed in a professional computer science setting.  
+
+This portfolio highlights three enhanced artifacts that reflect my strengths in software engineering, algorithms, databases, and security. Each project demonstrates my ability to apply innovative tools and techniques, adapt solutions to real-world problems, and design with security, scalability, and usability in mind. Alongside these artifacts, you will find reflections that show how my coursework and experiences have prepared me to contribute meaninfully in professional evironments.  
+
+My greatest area of growth throughout my time here at SNHU has been in applying a problem-solving and secure mindset in development while applying modern computing practices to create these scalable and maintainable applications. At the same time, I strengthened my ability to communicte with diverse stakeholders and contribute to collaborative environments by following Agile principles and documenting my work clearly. These experiences have shaped my professional identity and reinforced my commitment to adaptability, responsibility, and ethical computing, that I will transfer to the work environment.  
+
+As you explore this ePortfolio, I invite you to see how my academic journey has prepared me for a career in computer science, where I aim to build innovative, secure, and user-centered solutions. Thank you! 
+
 ## Professional Self-Assessment
 
 My time in the Computer Science program at Southern New Hampshire University has assisted in shaping my professional goals and values. It has prepared me to become an asset to prospective employers. This ePortfolio shows my ability to plan and develop industry-standard code and software programs across **Software Design & Engineering**, **Algorithms & Data Structures**, and **Databases**.
@@ -61,6 +71,7 @@ The third artifact is a Java console application developed to manage a list of r
   [Enhanced Code](https://github.com/Briannahrhea/IT145/tree/IT145_Enhanced)  
 
 ---
+
 
 
 
