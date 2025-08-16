@@ -33,8 +33,8 @@ The first artifact is an Android Studio Project developed usng the Java programm
 - **Repository:** <https://github.com/Briannahrhea/CS360>  
 - `See the artifact's narrative report and code here:`  
   [Narrative Report](https://github.com/Briannahrhea/CS360/tree/README)  
-  [Original](https://github.com/Briannahrhea/CS360/tree/CS360_Original)  
-  [Enhanced](https://github.com/Briannahrhea/CS360/tree/CS360_Enhanced)
+  [Original Code](https://github.com/Briannahrhea/CS360/tree/CS360_Original)  
+  [Enhanced Code](https://github.com/Briannahrhea/CS360/tree/CS360_Enhanced)
   
 
 #### Project 2: Algorithms and Data Structures  
@@ -45,8 +45,8 @@ The second artifact is a Python-based dashboard application designed to support 
 - **Repository:** <https://github.com/Briannahrhea/CS340>  
 - `See the artifact's narrative report and code here:`  
   [Narrative Report](https://github.com/Briannahrhea/CS340/tree/README)  
-  [Original](https://github.com/Briannahrhea/CS340/tree/CS340_Original)  
-  [Enhanced](https://github.com/Briannahrhea/CS340/tree/CS340_Enhanced)
+  [Original Code](https://github.com/Briannahrhea/CS340/tree/CS340_Original)  
+  [Enhanced Code](https://github.com/Briannahrhea/CS340/tree/CS340_Enhanced)
   
 
 #### Project 3: Databases  
@@ -57,10 +57,11 @@ The third artifact is a Java console application developed to manage a list of r
 - **Repository:** <https://github.com/Briannahrhea/IT145>  
 - `See the artifact's narrative report and code here:`  
   [Narrative Report](https://github.com/Briannahrhea/IT145/tree/README)  
-  [Original](https://github.com/Briannahrhea/IT145/tree/IT145_Original)  
-  [Enhanced](https://github.com/Briannahrhea/IT145/tree/IT145_Enhanced)  
+  [Original Code](https://github.com/Briannahrhea/IT145/tree/IT145_Original)  
+  [Enhanced Code](https://github.com/Briannahrhea/IT145/tree/IT145_Enhanced)  
 
 ---
+
 
 
 
