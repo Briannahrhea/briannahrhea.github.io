@@ -31,8 +31,8 @@ A code review is used to examine a piece of code with the goal of identifying mi
 The first artifact is an Android Studio Project developed usng the Java programming language. This application is used to track users' weight, set a goal weight, and receive notifications once their goal has been reached.  
 
 - **Repository:** <https://github.com/Briannahrhea/CS360>  
-- `See the artifact's report and code here:`  
-  [Report](https://github.com/Briannahrhea/CS360/tree/README)  
+- `See the artifact's narrative report and code here:`  
+  [Narrative Report](https://github.com/Briannahrhea/CS360/tree/README)  
   [Original](https://github.com/Briannahrhea/CS360/tree/CS360_Original)  
   [Enhanced](https://github.com/Briannahrhea/CS360/tree/CS360_Enhanced)
   
@@ -43,8 +43,8 @@ The first artifact is an Android Studio Project developed usng the Java programm
 The second artifact is a Python-based dashboard application designed to support an animal shelter's operations by connecting to a MongoDB database and displaying the data interactively using Dash, Plotly, and pandas. It included several visualization tools, such as a searchable data table, basic filtering options, and an interactive map. 
 
 - **Repository:** <https://github.com/Briannahrhea/CS340>  
-- `See the artifact's report and code here:`  
-  [Report](https://github.com/Briannahrhea/CS340/tree/README)  
+- `See the artifact's narrative report and code here:`  
+  [Narrative Report](https://github.com/Briannahrhea/CS340/tree/README)  
   [Original](https://github.com/Briannahrhea/CS340/tree/CS340_Original)  
   [Enhanced](https://github.com/Briannahrhea/CS340/tree/CS340_Enhanced)
   
@@ -55,12 +55,13 @@ The second artifact is a Python-based dashboard application designed to support 
 The third artifact is a Java console application developed to manage a list of rescue animals for the Grazioso company, allowing the users to intake new animals, reserve them for service, and view a list of available or reserved animals. This application uses ArrayList<Dog> and ArrayList<Monkey> for in-memory data storage and features a simple console-based menu interface to perform CRUD operations. 
 
 - **Repository:** <https://github.com/Briannahrhea/IT145>  
-- `See the artifact's report and code here:`  
-  [Report](https://github.com/Briannahrhea/IT145/tree/README)  
+- `See the artifact's narrative report and code here:`  
+  [Narrative Report](https://github.com/Briannahrhea/IT145/tree/README)  
   [Original](https://github.com/Briannahrhea/IT145/tree/IT145_Original)  
   [Enhanced](https://github.com/Briannahrhea/IT145/tree/IT145_Enhanced)  
 
 ---
+
 
 
 
