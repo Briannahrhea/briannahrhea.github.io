@@ -89,7 +89,10 @@ The second artifact is a Python-based dashboard application designed to support 
 
 - **Repository:** <https://github.com/Briannahrhea/CS340>  
 - `See the artifact's narrative report and code here:`  
-  [Narrative Report](https://github.com/Briannahrhea/CS340/tree/README)  
+  [Narrative Report](https://github.com/Briannahrhea/CS340/tree/README)
+  <img width="889" height="515" alt="image" src="https://github.com/user-attachments/assets/edfcfe16-f98f-4840-9575-7f29f99c9e96" />  
+  <img width="457" height="420" alt="image" src="https://github.com/user-attachments/assets/d4a312b0-0842-4c8e-ac0e-112f02f7e3bb" />  
+
   [Original Code](https://github.com/Briannahrhea/CS340/tree/CS340_Original)  
   [Enhanced Code](https://github.com/Briannahrhea/CS340/tree/CS340_Enhanced)
   
@@ -106,6 +109,7 @@ The third artifact is a Java console application developed to manage a list of r
   [Enhanced Code](https://github.com/Briannahrhea/IT145/tree/IT145_Enhanced)  
 
 ---
+
 
 
 
