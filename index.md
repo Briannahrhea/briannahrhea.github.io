@@ -69,13 +69,14 @@ The first artifact is an Android Studio Project developed usng the Java programm
 
 - **Repository:** <https://github.com/Briannahrhea/CS360>  
 - `See the artifact's narrative report and code here:`  
-  [Narrative Report](https://github.com/Briannahrhea/CS360/tree/README)  
+  [Narrative Report](https://github.com/Briannahrhea/CS360/tree/README)
+  <img src="https://github.com/user-attachments/assets/44d3d9cb-9ebd-490f-afda-c703a164f88b" alt="image 1" width="240"/>
+  <img src="https://github.com/user-attachments/assets/8c5ccffb-6491-4749-a3cf-3f3dc91d5049" alt="image 2" width="240" style="margin-left:12px;"/>
   [Original Code](https://github.com/Briannahrhea/CS360/tree/CS360_Original)
-  <img width="419" height="906" alt="image" src="https://github.com/user-attachments/assets/44d3d9cb-9ebd-490f-afda-c703a164f88b" />
-<img width="417" height="905" alt="image" src="https://github.com/user-attachments/assets/8c5ccffb-6491-4749-a3cf-3f3dc91d5049" />
-
+  <img src="https://github.com/user-attachments/assets/76df04b4-6508-4c18-9cd6-fc7651983a80" alt="image 1" width="220"/>
+  <img src="https://github.com/user-attachments/assets/33f851a9-7994-4a22-8915-acc3f561a4c8" alt="image 2" width="220" style="margin-left:12px;"/>
   [Enhanced Code](https://github.com/Briannahrhea/CS360/tree/CS360_Enhanced)
-  
+
 
 #### Project 2: Algorithms and Data Structures  
 **CS340 — Client/Server Development**
@@ -101,6 +102,7 @@ The third artifact is a Java console application developed to manage a list of r
   [Enhanced Code](https://github.com/Briannahrhea/IT145/tree/IT145_Enhanced)  
 
 ---
+
 
 
 
