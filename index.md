@@ -116,10 +116,13 @@ The third artifact is a Java console application developed to manage a list of r
   |:---:|:---:|
 
   [Original Code](https://github.com/Briannahrhea/IT145/tree/IT145_Original)
+
+  <img width="1550" height="610" alt="image" src="https://github.com/user-attachments/assets/c3f0fcfa-10d5-4ad2-9065-645b70dd9a63" />  
  
   [Enhanced Code](https://github.com/Briannahrhea/IT145/tree/IT145_Enhanced)  
 
 ---
+
 
 
 
