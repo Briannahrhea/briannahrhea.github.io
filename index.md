@@ -119,8 +119,9 @@ The third artifact is a Java console application developed to manage a list of r
 
   **Original Project Layout**  
 
-  | ![image](https://github.com/user-attachments/assets/41f04453-04d7-4eec-8051-ef3c2bbc4e1c) | ![image](https://github.com/user-attachments/assets/d9c7cccd-a648-4536-86f2-b18dcc9835ec) | |:---:|:---:|
-
+  |![image](https://github.com/user-attachments/assets/41f04453-04d7-4eec-8051-ef3c2bbc4e1c) | ![image](https://github.com/user-attachments/assets/d9c7cccd-a648-4536-86f2-b18dcc9835ec) |
+  |:---:|:---:|
+  
   [Original Code](https://github.com/Briannahrhea/IT145/tree/IT145_Original)
 
   <img src="https://github.com/user-attachments/assets/c3f0fcfa-10d5-4ad2-9065-645b70dd9a63" style="max-width:100%; height:auto;" alt="image"/>  
@@ -128,6 +129,7 @@ The third artifact is a Java console application developed to manage a list of r
   [Enhanced Code](https://github.com/Briannahrhea/IT145/tree/IT145_Enhanced)  
 
 ---
+
 
 
 
