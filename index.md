@@ -81,8 +81,11 @@ The first artifact is an Android Studio Project developed usng the Java programm
 
     
   **Enhanced Project Layout**  
-  <img src="https://github.com/user-attachments/assets/76df04b4-6508-4c18-9cd6-fc7651983a80" alt="image 1" width="220"/>
-  <img src="https://github.com/user-attachments/assets/33f851a9-7994-4a22-8915-acc3f561a4c8" alt="image 2" width="220" style="margin-left:12px;"/>  
+
+  | Image 1 | Image 2 |
+  |---------|---------|
+  | <img src="https://github.com/user-attachments/assets/76df04b4-6508-4c18-9cd6-fc7651983a80" width="220"/> | <img src="https://github.com/user-attachments/assets/33f851a9-7994-4a22-8915-acc3f561a4c8" width="220"/> |
+
   [Enhanced Code](https://github.com/Briannahrhea/CS360/tree/CS360_Enhanced)
 
 
@@ -95,12 +98,14 @@ The second artifact is a Python-based dashboard application designed to support 
 - `See the artifact's narrative report and code here:`  
   [Narrative Report](https://github.com/Briannahrhea/CS340/tree/README)
 
-  **Original Project Layout**   
-  <img width="1912" height="1038" alt="image" src="https://github.com/user-attachments/assets/e1ea2295-a794-4814-b2b8-2f17c7f2703a" />  
+  **Original Project Layout**  
+  <img src="https://github.com/user-attachments/assets/e1ea2295-a794-4814-b2b8-2f17c7f2703a" style="max-width:100%; height:auto;"/>
+
   [Original Code](https://github.com/Briannahrhea/CS340/tree/CS340_Original)  
 
-  **Enhanced Project Layout**   
-  <img width="1902" height="1037" alt="image" src="https://github.com/user-attachments/assets/8aa8c8c1-b661-4b3d-828f-3006098086fb"/>  
+  **Enhanced Project Layout**  
+  <img src="https://github.com/user-attachments/assets/8aa8c8c1-b661-4b3d-828f-3006098086fb" style="max-width:100%; height:auto;"/>
+
   [Enhanced Code](https://github.com/Briannahrhea/CS340/tree/CS340_Enhanced)
   
 
@@ -120,11 +125,12 @@ The third artifact is a Java console application developed to manage a list of r
 
   [Original Code](https://github.com/Briannahrhea/IT145/tree/IT145_Original)
 
-  <img width="1550" height="610" alt="image" src="https://github.com/user-attachments/assets/c3f0fcfa-10d5-4ad2-9065-645b70dd9a63" />  
+  <img src="https://github.com/user-attachments/assets/c3f0fcfa-10d5-4ad2-9065-645b70dd9a63" style="max-width:100%; height:auto;" alt="image"/>  
  
   [Enhanced Code](https://github.com/Briannahrhea/IT145/tree/IT145_Enhanced)  
 
 ---
+
 
 
 
