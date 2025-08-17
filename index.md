@@ -139,6 +139,62 @@ The third artifact is a Java console application developed to manage a list of r
 
 ---
 
+## Course Outcomes
+
+- **Outcome 1:** Employ strategies for building collaborative environments that enable diverse audiences to support organizational decision-making in the field of computer science.  
+- **Outcome 2:** Design, develop, and deliver professional-quality oral, written, and visual communications that are coherent, technically sound, and appropriately adapted to specific audiences and contexts.  
+- **Outcome 3:** Design and evaluate computing solutions that solve a given problem using algorithmic principles and computer science practices and standards appropriate to its solution, while managing the trade-offs involved in design choices.  
+- **Outcome 4:** Demonstrate an ability to use well-founded and innovative techniques, skills, and tools in computing practices for the purpose of implementing computer solutions that deliver value and accomplish industry-specific goals.  
+- **Outcome 5:** Develop a security mindset that anticipates adversarial exploits in software architecture and designs to expose potential vulnerabilities, mitigate design flaws, and ensure privacy and enhanced security of data and resources.  
+
+---
+
+## Crosswalk of Outcomes to Artifacts
+
+| **Course Outcome** | **Skills Demonstrated** | **Aligned Artifacts** |
+|---------------------|--------------------------|------------------------|
+| **Collaborative Environments** | Git/GitHub version control, documentation (README, inline comments), inclusive design with user roles | [Artifact 1 – Weight Tracking App](#artifact-1-cs360-mobile-architecture-and-programming) <br> [Artifact 2 – Animal Shelter Dashboard](#artifact-2-cs340-clientserver-development) |
+| **Professional Communications** | README files, UI/UX design, presentations, visual dashboards tailored to audiences | [Artifact 1](#artifact-1-cs360-mobile-architecture-and-programming) <br> [Artifact 2](#artifact-2-cs340-clientserver-development) <br> [Artifact 3 – Rescue Animal Management App](#artifact-3-it145-foundations-in-application-development) |
+| **Algorithmic Solutions** | Data structures, search/sort algorithms, database schema design, matching/filtering algorithms | [Artifact 2](#artifact-2-cs340-clientserver-development) <br> [Artifact 3](#artifact-3-it145-foundations-in-application-development) |
+| **Innovative Practices** | Use of industry tools (Android Studio, SQLite, MongoDB, Node.js, Express, Dash, Plotly), modular and RESTful design | [Artifact 1](#artifact-1-cs360-mobile-architecture-and-programming) <br> [Artifact 2](#artifact-2-cs340-clientserver-development) <br> [Artifact 3](#artifact-3-it145-foundations-in-application-development) |
+| **Security Mindset** | Input validation, password hashing, SQL injection prevention, secure credentials, role-based authentication | [Artifact 1](#artifact-1-cs360-mobile-architecture-and-programming) <br> [Artifact 2](#artifact-2-cs340-clientserver-development) <br> [Artifact 3](#artifact-3-it145-foundations-in-application-development) |
+
+---
+
+## Artifact Reflections
+
+### Artifact 1 – CS360 Mobile Architecture and Programming
+**Weight Tracking App (Android Studio, Java)**  
+This project demonstrates my skills in software design and engineering through enhancements such as a redesigned UI, interactive data visualization with MPAndroidChart, editable tables, SMS notifications, and secure password storage.  
+
+**Challenges:** Updating outdated libraries, integrating SQLite with dynamic charting, and handling SMS permissions.  
+**Course Outcomes Met:** All five outcomes (collaboration via GitHub, professional UI/UX, algorithmic updates with filtering, innovative mobile practices, and password hashing for security).  
+
+---
+
+### Artifact 2 – CS340 Client/Server Development
+**Animal Shelter Dashboard (Python, Dash, Plotly, MongoDB)**  
+Enhancements included modularizing the project, adding filtering logic, implementing a trend analysis graph, creating a bookmarking system, developing an animal matching feature, and overlaying a heatmap on the map visualization.  
+
+**Challenges:** Learning new visualization tools, debugging MongoDB queries with `$regex`, and implementing Python logging for debugging.  
+**Course Outcomes Met:** All five outcomes (team-centered dashboards, professional data communication, algorithmic queries, innovative modular Python design, and secure credential management).  
+
+---
+
+### Artifact 3 – IT145 Foundations in Application Development
+**Rescue Animal Management App (Full-Stack Web App)**  
+This console-based Java app was rebuilt as a full-stack Node.js/Express/MySQL web application with a web UI. Enhancements included CRUD operations, RESTful APIs, dynamic filtering, and input validation.  
+
+**Challenges:** Transitioning to full-stack development, learning RESTful architecture, handling asynchronous backend logic, and connecting databases to frontends.  
+**Course Outcomes Met:** Outcomes 3–5 (algorithmic database schema and routes, industry-standard full-stack tools, and security-first coding practices).  
+
+---
+
+## Conclusion
+
+Through these enhancements and reflections, I have demonstrated my ability to design, develop, and deliver solutions that are collaborative, professional, innovative, and secure. This portfolio highlights my growth as a computer science professional, with artifacts that map directly to the five CS499 course outcomes.
+
+
 
 
 
