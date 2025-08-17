@@ -74,10 +74,10 @@ The first artifact is an Android Studio Project developed usng the Java programm
   **Original Project Layout**
 
   <div style="display:flex; gap:12px; flex-wrap:wrap; align-items:flex-start;">
-    <img src="https://github.com/user-attachments/assets/44d3d9cb-9ebd-490f-afda-c703a164f88b"
-      alt="Original layout 1" style="max-width:100%; height:auto; width:250px;" loading="lazy">
-    <img src="https://github.com/user-attachments/assets/8c5ccffb-6491-4749-a3cf-3f3dc91d5049"
-      alt="Original layout 2" style="max-width:100%; height:auto; width:250px;" loading="lazy">
+    <img src="assets/artifacts/Weight_Tracking_O1.png"
+      alt="Weight Tracking Original 1" style="max-width:100%; height:auto; width:250px;" loading="lazy">
+    <img src="assets/artifacts/Weight_Tracking_O2.png"
+      alt="Weight Tracking Original 2" style="max-width:100%; height:auto; width:250px;" loading="lazy">
   </div>
 
   [Original Code](https://github.com/Briannahrhea/CS360/tree/CS360_Original)
@@ -85,10 +85,10 @@ The first artifact is an Android Studio Project developed usng the Java programm
   **Enhanced Project Layout**
 
   <div style="display:flex; gap:12px; flex-wrap:wrap; align-items:flex-start;">
-    <img src="https://github.com/user-attachments/assets/76df04b4-6508-4c18-9cd6-fc7651983a80"
-      alt="Enhanced layout 1" style="max-width:100%; height:auto; width:250px;" loading="lazy">
-    <img src="https://github.com/user-attachments/assets/33f851a9-7994-4a22-8915-acc3f561a4c8"
-      alt="Enhanced layout 2" style="max-width:100%; height:auto; width:250px;" loading="lazy">
+    <img src="assets/artifacts/Weight_Tracking_N1.png"
+      alt="Weight Tracking Enhanced 1" style="max-width:100%; height:auto; width:250px;" loading="lazy">
+    <img src="assets/artifacts/Weight_Tracking_N2.png"
+      alt="Weight Tracking Enhanced 2" style="max-width:100%; height:auto; width:250px;" loading="lazy">
   </div>
 
   [Enhanced Code](https://github.com/Briannahrhea/CS360/tree/CS360_Enhanced)
@@ -103,12 +103,14 @@ The second artifact is a Python-based dashboard application designed to support 
   [Narrative Report](https://github.com/Briannahrhea/CS340/tree/README)
 
   **Original Project Layout**  
-  <img src="https://github.com/user-attachments/assets/e1ea2295-a794-4814-b2b8-2f17c7f2703a" style="max-width:100%; height:auto;"/>
+  <img src="assets/artifacts/Grazioso_O1.png"
+     alt="Grazioso Original 1" style="max-width:100%; height:auto;" loading="lazy">
 
   [Original Code](https://github.com/Briannahrhea/CS340/tree/CS340_Original)  
 
   **Enhanced Project Layout**  
-  <img src="https://github.com/user-attachments/assets/8aa8c8c1-b661-4b3d-828f-3006098086fb" style="max-width:100%; height:auto;"/>
+  <img src="assets/artifacts/Grazioso_O2.png"
+     alt="Grazioso Enhanced 2" style="max-width:100%; height:auto;" loading="lazy">
 
   [Enhanced Code](https://github.com/Briannahrhea/CS340/tree/CS340_Enhanced)
   
@@ -125,15 +127,16 @@ The third artifact is a Java console application developed to manage a list of r
   **Original Project Layout**
 
   <div style="display:flex; gap:12px; flex-wrap:wrap; align-items:flex-start;">
-    <img src="https://github.com/user-attachments/assets/41f04453-04d7-4eec-8051-ef3c2bbc4e1c"
-      alt="Original layout" style="max-width:100%; height:auto; width:320px;" loading="lazy">
-    <img src="https://github.com/user-attachments/assets/d9c7cccd-a648-4536-86f2-b18dcc9835ec"
-      alt="Enhanced layout" style="max-width:100%; height:auto; width:320px;" loading="lazy">
+    <img src="assets/artifacts/IT145_O1.png"
+      alt="IT145 Original 1" style="max-width:100%; height:auto; width:320px;" loading="lazy">
+    <img src="assets/artifacts/IT145_O2.png"
+      alt="IT145 Original 2" style="max-width:100%; height:auto; width:320px;" loading="lazy">
   </div>
 
   [Original Code](https://github.com/Briannahrhea/IT145/tree/IT145_Original)
 
-  <img src="https://github.com/user-attachments/assets/c3f0fcfa-10d5-4ad2-9065-645b70dd9a63" style="max-width:100%; height:auto;" alt="image"/>  
+  <img src="assets/artifacts/IT145_N1.png"
+     alt="IT145 Enhanced 1" style="max-width:100%; height:auto;" loading="lazy">
  
   [Enhanced Code](https://github.com/Briannahrhea/IT145/tree/IT145_Enhanced)  
 
@@ -193,6 +196,7 @@ This console-based Java app was rebuilt as a full-stack Node.js/Express/MySQL we
 ## Conclusion
 
 Through these enhancements and reflections, I have demonstrated my ability to design, develop, and deliver solutions that are collaborative, professional, innovative, and secure. This portfolio highlights my growth as a computer science professional, with artifacts that map directly to the five CS499 course outcomes.
+
 
 
 
