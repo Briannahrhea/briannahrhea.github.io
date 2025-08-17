@@ -75,9 +75,9 @@ The first artifact is an Android Studio Project developed usng the Java programm
 
   <div style="display:flex; gap:12px; flex-wrap:wrap; align-items:flex-start;">
     <img src="https://github.com/user-attachments/assets/44d3d9cb-9ebd-490f-afda-c703a164f88b"
-      alt="Original layout 1" style="max-width:100%; height:auto; width:320px;" loading="lazy">
+      alt="Original layout 1" style="max-width:100%; height:auto; width:250px;" loading="lazy">
     <img src="https://github.com/user-attachments/assets/8c5ccffb-6491-4749-a3cf-3f3dc91d5049"
-      alt="Original layout 2" style="max-width:100%; height:auto; width:320px;" loading="lazy">
+      alt="Original layout 2" style="max-width:100%; height:auto; width:250px;" loading="lazy">
   </div>
 
   [Original Code](https://github.com/Briannahrhea/CS360/tree/CS360_Original)
@@ -86,9 +86,9 @@ The first artifact is an Android Studio Project developed usng the Java programm
 
   <div style="display:flex; gap:12px; flex-wrap:wrap; align-items:flex-start;">
     <img src="https://github.com/user-attachments/assets/76df04b4-6508-4c18-9cd6-fc7651983a80"
-      alt="Enhanced layout 1" style="max-width:100%; height:auto; width:320px;" loading="lazy">
+      alt="Enhanced layout 1" style="max-width:100%; height:auto; width:250px;" loading="lazy">
     <img src="https://github.com/user-attachments/assets/33f851a9-7994-4a22-8915-acc3f561a4c8"
-      alt="Enhanced layout 2" style="max-width:100%; height:auto; width:320px;" loading="lazy">
+      alt="Enhanced layout 2" style="max-width:100%; height:auto; width:250px;" loading="lazy">
   </div>
 
   [Enhanced Code](https://github.com/Briannahrhea/CS360/tree/CS360_Enhanced)
@@ -138,6 +138,7 @@ The third artifact is a Java console application developed to manage a list of r
   [Enhanced Code](https://github.com/Briannahrhea/IT145/tree/IT145_Enhanced)  
 
 ---
+
 
 
 
