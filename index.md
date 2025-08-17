@@ -26,7 +26,7 @@ As you explore this ePortfolio, I invite you to see how my academic journey has 
   
 <div markdown="1">
   
-Throughout my journey through the SNHU Computer Science program and in the completion of the artifacts for my ePortfolio, I have developed the technical skills, professional values, and problem-solving mindset I need to be successful in a professional field of study. Throughout the experiences that shaped my professional goals and employability, I was able to identify strengths in communication, algorithms, software engineering, databases, and security. The development and reflection of my work in this ePortfolio have also provided opportunities to connect and evaluate my academic learning experiences and skillsets with industry expectations, to illustrate my readiness to transition into the computer science workforce.  
+Throughout my journey in the SNHU Computer Science program and in the completion of the artifacts for my ePortfolio, I have developed the technical skills, professional values, and problem-solving mindset I need to be successful in a professional field of study. Throughout the experiences that shaped my professional goals and employability, I was able to identify strengths in communication, algorithms, software engineering, databases, and security. The development and reflection of my work in this ePortfolio have also provided opportunities to connect and evaluate my academic learning experiences and skillsets with industry expectations, to illustrate my readiness to transition into the computer science workforce.  
 
 I have experienced substantial development in problem-solving and developing technical solutions with the utilization of data structures, algorithms, and innovative thinking as I developed my artifacts. For example, in my CS210 Chada Tech Clocks project, I established timekeeping logic in C++, which included algorithmic thinking that managed edge cases when incrementing hours, minutes, and seconds. Over the duration of the program, I became more comfortable applying logical steps to solve problems, weighing the trade-offs of efficiency and usability, and designing computing solutions to obtain the appropriate results. This skillset has become the foundation for my artifact enhancements, where I applied logic from algorithms, as well as a framework built on modern architecture, that illuminates my skillsets to ultimately develop scalable and real-life computing applications.  
 
@@ -193,6 +193,7 @@ This console-based Java app was rebuilt as a full-stack Node.js/Express/MySQL we
 ## Conclusion
 
 Through these enhancements and reflections, I have demonstrated my ability to design, develop, and deliver solutions that are collaborative, professional, innovative, and secure. This portfolio highlights my growth as a computer science professional, with artifacts that map directly to the five CS499 course outcomes.
+
 
 
 
