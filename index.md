@@ -98,7 +98,7 @@ The first artifact I selected for enhancement is a Java-based Android Studio pro
 #### Project 2: Algorithms and Data Structures  
 **CS340 — Client/Server Development**
 
-The second artifact is a Python-based dashboard application designed to support an animal shelter's operations by connecting to a MongoDB database and displaying the data interactively using Dash, Plotly, and pandas. It included several visualization tools, such as a searchable data table, basic filtering options, and an interactive map. 
+The second artifact I enhanced is a Python-based dashboard application originally developed in CS 340, designed to support an animal shelter by connecting to a MongoDB database and displaying data through Dash, Plotly, and pandas. The original version offered only basic filtering, tables, and a map, so I expanded it by adding complex query logic, a modular Python file structure, trend analysis graphs, a bookmarking system, and an enhanced map with a heatmap overlay. These enhancements showcase skills in efficient data filtering algorithms, pandas group-by logic, time-based transformations, MongoDB queries with nested dictionaries, and CRUD operations for managing saved records. The improvements created a more interactive, user-centered tool where users can match animals based on multiple criteria, visualize data trends over time, and manage saved searches for future reference. Along the way, I overcame challenges with graphing tools, query integration, and debugging callbacks, strengthening my abilities in algorithmic design, data structures, and building scalable, data-driven applications.
 
 - **Repository:** <https://github.com/Briannahrhea/CS340>  
 - `See the artifact's narrative report and code here:`  
@@ -198,6 +198,7 @@ This console-based Java app was rebuilt as a full-stack Node.js/Express/MySQL we
 ## Conclusion
 
 Through these enhancements and reflections, I have demonstrated my ability to design, develop, and deliver solutions that are collaborative, professional, innovative, and secure. This portfolio highlights my growth as a computer science professional, with artifacts that map directly to the five CS499 course outcomes.
+
 
 
 
