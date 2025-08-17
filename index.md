@@ -2,7 +2,9 @@
 title: Home
 ---
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/f9847130-2e45-4c33-bc54-fa804dfc938c" alt="Briannah Barnett Headshot" width="200"/>
+  <img src="assets/artifacts/headshot_bw.jpeg" 
+       alt="Briannah Barnett Headshot" 
+       width="200"/>
 </p>
 
 # Computer Science Capstone Project
@@ -196,6 +198,7 @@ This console-based Java app was rebuilt as a full-stack Node.js/Express/MySQL we
 ## Conclusion
 
 Through these enhancements and reflections, I have demonstrated my ability to design, develop, and deliver solutions that are collaborative, professional, innovative, and secure. This portfolio highlights my growth as a computer science professional, with artifacts that map directly to the five CS499 course outcomes.
+
 
 
 
