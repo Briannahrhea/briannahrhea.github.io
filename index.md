@@ -67,7 +67,7 @@ A code review is used to examine a piece of code with the goal of identifying mi
 #### Project 1: Software Engineering and Design  
 **CS360 — Mobile Architecture and Programming**
 
-The first artifact is an Android Studio Project developed usng the Java programming language. This application is used to track users' weight, set a goal weight, and receive notifications once their goal has been reached.  
+The first artifact I selected for enhancement is a Java-based Android Studio project originally developed in CS 360, designed as a weight-tracking mobile application. Its purpose is to allow users to log and monitor their weight, set goals, and receive SMS notifications upon reaching those goals. For this enhancement, I improved the user interface with a modern, neutral theme, added line graph visualizations with filters using MPAndroidChart, enabled editable data tables tied to a dynamic SQLite database, and separated the login and registration screens for better usability. I also re-implemented the SMS notification system, integrated password hashing for secure credential storage, and refined navigation for a smoother user experience. Throughout this process, I demonstrated skills in software design and engineering by applying coding best practices, addressing real-world usability and security concerns, and overcoming challenges with updated libraries, dynamic graph integration, and Android permissions.  
 
 - **Repository:** <https://github.com/Briannahrhea/CS360>  
 - `See the artifact's narrative report and code here:`  
@@ -198,6 +198,7 @@ This console-based Java app was rebuilt as a full-stack Node.js/Express/MySQL we
 ## Conclusion
 
 Through these enhancements and reflections, I have demonstrated my ability to design, develop, and deliver solutions that are collaborative, professional, innovative, and secure. This portfolio highlights my growth as a computer science professional, with artifacts that map directly to the five CS499 course outcomes.
+
 
 
 
