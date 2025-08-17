@@ -74,7 +74,7 @@ The first artifact is an Android Studio Project developed usng the Java programm
   **Original Project Layout**
   <div markdown="1">
     
-    | <img src="https://github.com/user-attachments/assets/44d3d9cb-9ebd-490f-afda-c703a164f88b" style="max-width:100%; height:auto;" alt="Original layout 1"/> | <img src="https://github.com/user-attachments/assets/8c5ccffb-6491-4749-a3cf-3f3dc91d5049" style="max-width:100%; height:auto;" alt="Original layout 2"/> |
+    | <img src="https://github.com/user-attachments/assets/44d3d9cb-9ebd-490f-afda-c703a164f88b" style="max-width:100%; height:auto;" alt="Original layout 1"/> | <img src="https://github.com/user-attachments/assets/8c5ccffb-6491-4749-a3cf3f3dc91d5049" style="max-width:100%; height:auto;" alt="Original layout 2"/> |
   |:---:|:---:|
 
   </div>
@@ -85,7 +85,7 @@ The first artifact is an Android Studio Project developed usng the Java programm
 
   <div markdown="1">
     
-    | <img src="https://github.com/user-attachments/assets/76df04b4-6508-4c18-9cd6-fc7651983a80" style="max-width:100%; height:auto;" alt="Enhanced layout 1"/> | <img src="https://github.com/user-attachments/assets/33f851a9-7994-4a22-8915-acc3f561a4c8" style="max-width:100%; height:auto;" alt="Enhanced layout 2"/> |
+    | <img src="https://github.com/user-attachments/assets/76df04b4-6508-4c18-9cd6-fc7651983a80" style="max-width:100%; height:auto;" alt="Enhanced layout 1"/> | <img src="https://github.com/user-attachments/assets/33f851a9-7994-4a22-8915acc3f561a4c8" style="max-width:100%; height:auto;" alt="Enhanced layout 2"/> |
   |:---:|:---:|
 
   </div>  
@@ -137,6 +137,7 @@ The third artifact is a Java console application developed to manage a list of r
   [Enhanced Code](https://github.com/Briannahrhea/IT145/tree/IT145_Enhanced)  
 
 ---
+
 
 
 
