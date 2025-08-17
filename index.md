@@ -153,11 +153,11 @@ The third artifact is a Java console application developed to manage a list of r
 
 | **Course Outcome** | **Skills Demonstrated** | **Aligned Artifacts** |
 |---------------------|--------------------------|------------------------|
-| **Collaborative Environments** | Git/GitHub version control, documentation (README, inline comments), inclusive design with user roles | [Artifact 1](#artifact-1-cs360-mobile-architecture-and-programming) <br> [Artifact 2](#artifact-2-cs340-clientserver-development) |
-| **Professional Communications** | README files, UI/UX design, presentations, visual dashboards tailored to audiences | [Artifact 1](#artifact-1-cs360-mobile-architecture-and-programming) <br> [Artifact 2](#artifact-2-cs340-clientserver-development) <br> [Artifact 3](#artifact-3-it145-foundations-in-application-development) |
-| **Algorithmic Solutions** | Data structures, search/sort algorithms, database schema design, matching/filtering algorithms | [Artifact 2](#artifact-2-cs340-clientserver-development) <br> [Artifact 3](#artifact-3-it145-foundations-in-application-development) |
-| **Innovative Practices** | Use of industry tools (Android Studio, SQLite, MongoDB, Node.js, Express, Dash, Plotly), modular and RESTful design | [Artifact 1](#artifact-1-cs360-mobile-architecture-and-programming) <br> [Artifact 2](#artifact-2-cs340-clientserver-development) <br> [Artifact 3](#artifact-3-it145-foundations-in-application-development) |
-| **Security Mindset** | Input validation, password hashing, SQL injection prevention, secure credentials, role-based authentication | [Artifact 1](#artifact-1-cs360-mobile-architecture-and-programming) <br> [Artifact 2](#artifact-2-cs340-clientserver-development) <br> [Artifact 3](#artifact-3-it145-foundations-in-application-development) |
+| **Collaborative Environments** | Git/GitHub version control, documentation (README, inline comments), inclusive design with user roles | Artifact 1 <br> Artifact 2 |
+| **Professional Communications** | README files, UI/UX design, presentations, visual dashboards tailored to audiences | Artifact 1 <br> Artifact 2 <br> Artifact 3 |
+| **Algorithmic Solutions** | Data structures, search/sort algorithms, database schema design, matching/filtering algorithms | Artifact 2 <br> Artifact 3 |
+| **Innovative Practices** | Use of industry tools (Android Studio, SQLite, MongoDB, Node.js, Express, Dash, Plotly), modular and RESTful design | Artifact 1 <br> Artifact 2 <br> Artifact 3 |
+| **Security Mindset** | Input validation, password hashing, SQL injection prevention, secure credentials, role-based authentication | Artifact 1 <br> Artifact 2 <br> Artifact 3 |
 
 ---
 
@@ -193,6 +193,7 @@ This console-based Java app was rebuilt as a full-stack Node.js/Express/MySQL we
 ## Conclusion
 
 Through these enhancements and reflections, I have demonstrated my ability to design, develop, and deliver solutions that are collaborative, professional, innovative, and secure. This portfolio highlights my growth as a computer science professional, with artifacts that map directly to the five CS499 course outcomes.
+
 
 
 
