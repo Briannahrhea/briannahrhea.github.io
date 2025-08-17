@@ -109,7 +109,7 @@ The second artifact is a Python-based dashboard application designed to support 
   [Original Code](https://github.com/Briannahrhea/CS340/tree/CS340_Original)  
 
   **Enhanced Project Layout**  
-  <img src="assets/artifacts/Grazioso_O2.png"
+  <img src="assets/artifacts/Grazioso_N1.png"
      alt="Grazioso Enhanced 2" style="max-width:100%; height:auto;" loading="lazy">
 
   [Enhanced Code](https://github.com/Briannahrhea/CS340/tree/CS340_Enhanced)
@@ -196,6 +196,7 @@ This console-based Java app was rebuilt as a full-stack Node.js/Express/MySQL we
 ## Conclusion
 
 Through these enhancements and reflections, I have demonstrated my ability to design, develop, and deliver solutions that are collaborative, professional, innovative, and secure. This portfolio highlights my growth as a computer science professional, with artifacts that map directly to the five CS499 course outcomes.
+
 
 
 
