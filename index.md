@@ -120,7 +120,7 @@ The second artifact I enhanced is a Python-based dashboard application originall
 #### Project 3: Databases  
 **IT145 — Foundation in Application Development**
 
-The third artifact is a Java console application developed to manage a list of rescue animals for the Grazioso company, allowing the users to intake new animals, reserve them for service, and view a list of available or reserved animals. This application uses ArrayList<Dog> and ArrayList<Monkey> for in-memory data storage and features a simple console-based menu interface to perform CRUD operations. 
+The third artifact I enhanced is a Java console application from IT 145 that originally managed rescue animals for the Grazioso company through a simple menu-based interface using ArrayLists for in-memory storage. While functional, the original version lacked persistence, filtering, and scalability, so I transformed it into a full-stack web application using Node.js, Express, MySQL, and a web frontend with HTML, CSS, JavaScript, and Bootstrap. I replaced the ArrayList structure with a relational database, built RESTful API endpoints for CRUD operations and dynamic filtering, and developed an interactive interface with form inputs, dropdowns, and action buttons for intake, reservation, updating, and deleting records. This enhancement demonstrates my growth from foundational programming into full-stack development, showcasing skills in frontend and backend design, REST API implementation, modular architecture, and secure coding practices such as input validation. Through this process, I strengthened my understanding of full-stack workflows, overcame challenges in asynchronous server logic and database integration, and delivered a scalable, user-friendly solution that highlights my ability to apply industry practices to real-world applications.
 
 - **Repository:** <https://github.com/Briannahrhea/IT145>  
 - `See the artifact's narrative report and code here:`  
@@ -198,6 +198,7 @@ This console-based Java app was rebuilt as a full-stack Node.js/Express/MySQL we
 ## Conclusion
 
 Through these enhancements and reflections, I have demonstrated my ability to design, develop, and deliver solutions that are collaborative, professional, innovative, and secure. This portfolio highlights my growth as a computer science professional, with artifacts that map directly to the five CS499 course outcomes.
+
 
 
 
