@@ -73,20 +73,17 @@ The first artifact is an Android Studio Project developed usng the Java programm
 
   **Original Project Layout**
 
-  |![image](https://github.com/user-attachments/assets/44d3d9cb-9ebd-490f-afda-c703a164f88b)|![image](https://github.com/user-attachments/assets/8c5ccffb-6491-4749-a3cf-3f3dc91d5049)|
+  | <img src="https://github.com/user-attachments/assets/44d3d9cb-9ebd-490f-afda-c703a164f88b" style="max-width:100%; height:auto;" alt="Original layout 1"/> | <img src="https://github.com/user-attachments/assets/8c5ccffb-6491-4749-a3cf-3f3dc91d5049" style="max-width:100%; height:auto;" alt="Original layout 2"/> |
   |:---:|:---:|
-  
-  [Original Code](https://github.com/Briannahrhea/CS360/tree/CS360_Original)
 
+  [Original Code](https://github.com/Briannahrhea/CS360/tree/CS360_Original)
 
   **Enhanced Project Layout**
 
-  |![image](https://github.com/user-attachments/assets/76df04b4-6508-4c18-9cd6-fc7651983a80)|![image](https://github.com/user-attachments/assets/33f851a9-7994-4a22-8915-acc3f561a4c8)|
+  | <img src="https://github.com/user-attachments/assets/76df04b4-6508-4c18-9cd6-fc7651983a80" style="max-width:100%; height:auto;" alt="Enhanced layout 1"/> | <img src="https://github.com/user-attachments/assets/33f851a9-7994-4a22-8915-acc3f561a4c8" style="max-width:100%; height:auto;" alt="Enhanced layout 2"/> |
   |:---:|:---:|
 
   [Enhanced Code](https://github.com/Briannahrhea/CS360/tree/CS360_Enhanced)
-
-
 
 #### Project 2: Algorithms and Data Structures  
 **CS340 — Client/Server Development**
@@ -119,9 +116,9 @@ The third artifact is a Java console application developed to manage a list of r
 
   **Original Project Layout**  
 
-  |![image](https://github.com/user-attachments/assets/41f04453-04d7-4eec-8051-ef3c2bbc4e1c) | ![image](https://github.com/user-attachments/assets/d9c7cccd-a648-4536-86f2-b18dcc9835ec) |
+  | <img src="https://github.com/user-attachments/assets/41f04453-04d7-4eec-8051-ef3c2bbc4e1c" style="max-width:100%; height:auto;" alt="Original layout"/> | <img src="https://github.com/user-attachments/assets/d9c7cccd-a648-4536-86f2-b18dcc9835ec" style="max-width:100%; height:auto;" alt="Enhanced layout"/> |
   |:---:|:---:|
-  
+
   [Original Code](https://github.com/Briannahrhea/IT145/tree/IT145_Original)
 
   <img src="https://github.com/user-attachments/assets/c3f0fcfa-10d5-4ad2-9065-645b70dd9a63" style="max-width:100%; height:auto;" alt="image"/>  
@@ -129,6 +126,7 @@ The third artifact is a Java console application developed to manage a list of r
   [Enhanced Code](https://github.com/Briannahrhea/IT145/tree/IT145_Enhanced)  
 
 ---
+
 
 
 
